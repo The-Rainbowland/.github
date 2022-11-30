@@ -2,6 +2,8 @@
 
 Hi! I'm a beautiful archipelago of continents & islands in the endless Ocean of The Rainbowland Metaverse. Social gaming platform, comprises a map made of lands & homes. The Rainbowland is an blockchain-powered Virtual Universe with different Worlds: The City, Rainbowhill, Cartoonville, Desert, Gatsbyville, Frozenville, Desert, Medieval, Factory, Departures, Celebrity, Voxelville & Pixelville, Oceania, Seaside, Lakeside & Riverside.
 
+![The Rainbowland Metaverse](https://gateway.pinata.cloud/ipfs/QmRfbp2NDJseNZgpWpPbaUWcb4QVZeTNHVFvRjXrs8WiGb)
+
 Deep dive into the Metaverse Ecosystem of limitless possibilities & earn rewards such as Ecosystem NFTs & Coins, Merchandise & much more!
 
 We started The Rainbowland to create community driven & developed play-to-earn gaming metaverse platform of its kind.
@@ -45,5 +47,5 @@ The Team at The Rainbowland Metaverse is passionate about looking after communit
 - @Freidrich - Marketing & Listing Exchanges. All about Unity and Web3. Co-founder of The Rainbowland Metaverse.
 
 ## ⚜️ Social
-[Yooutube](https://www.youtube.com/@TheRainbowlandMetaverse/channels)
-[Twitter](https://twitter.com/TheRainbowland)
+- [Youtube](https://www.youtube.com/@TheRainbowlandMetaverse/channels)
+- [Twitter](https://twitter.com/TheRainbowland)
