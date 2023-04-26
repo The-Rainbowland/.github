@@ -61,8 +61,8 @@ So, if you are looking for a way to honor and remember your loved ones, come to 
 ## ⚜️ Roadmap
 ![Roadmap](https://gateway.pinata.cloud/ipfs/QmSwEYT1p9XujQNcsjxiBtF9Qjo2Q11AMxZhgHFQgHyaY7)
 
-## [Metaverse Clothes Store powered by SPRINGS](https://metaverse-18.creator-spring.com/)
-![Metaverse Cloothes Store](https://gateway.pinata.cloud/ipfs/QmdHaaNxvGoWHytfg738wnzNCsgsHNuhE3L9uK6Z5dGFLq)
+## [Metaverse Clothes Store powered by SPRINGS](https://shop.rainbowland.org/)
+![Metaverse Cloothes Store](https://gateway.pinata.cloud/ipfs/QmVW7td5pQQ5EjLsobPxVUzxGooycdXetWsmz7rEXxkNQN)
 
 ## ⚜️ Our Team
 The Team at The Rainbowland Metaverse is passionate about looking after community and respect the privacy of everyone, so you may not find photos of us here or any of us trying to shill Rainbowland at your local blockchain conference.
