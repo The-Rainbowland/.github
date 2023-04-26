@@ -25,7 +25,7 @@ The overarching vision for what we intend The Rainbowland Metaverse to become.
 ## ⚜️ Land Size
 1 Land = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
 
-![The Rainbowland Metaverse Map](https://gateway.pinata.cloud/ipfs/QmRgaoeeVLpccXdKroS17icroNdXjLoVGDx5hvgKQRbwQb)
+![The Rainbowland Metaverse Map](https://gateway.pinata.cloud/ipfs/QmWDmuKqRqXEgouuHxmDbC2Bbi2qbqntqqiXwYPcPPE9dk)
 
 ## ⚜️ Districts:
 ⚜️ Map Legend:
