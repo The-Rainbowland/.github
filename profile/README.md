@@ -22,9 +22,10 @@ The overarching vision for what we intend The Rainbowland Metaverse to become.
 
 ⚜️ We believe that The Rainbowland Metaverse will become a sprawling, decentralized, massively multiplayer ecosystem where players can immerse themselves in a world unlike any other. Our goal is to create a virtual universe that offers unique gameplay mechanics, experiences, play-to-earn competitions, community hangouts, and so much more. Our mission is to create a world where players can come together to explore, create, and play, while earning rewards along the way. Join us on this journey as we bring our vision to life.
 
+## ⚜️ Land Size
 1 Land = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
 
-![The Rainbowland Metaverse. Version 1.1.0](ipfs://bafybeianwekncd4jy6m7kgaeicva5sqrppk4yjthx4vwjd2ipqui2sfv3i)
+![The Rainbowland Metaverse Map](https://gateway.pinata.cloud/ipfs/QmRgaoeeVLpccXdKroS17icroNdXjLoVGDx5hvgKQRbwQb)
 
 ## ⚜️ Districts:
 ⚜️ Map Legend:
@@ -57,11 +58,6 @@ With this unique option, families and friends can create a virtual memorial for 
 
 So, if you are looking for a way to honor and remember your loved ones, come to The Digital Graveyard. Here, you can ensure that their memory will live on forever in the digital world. Join us in this exciting new chapter of the Rainbowland Metaverse and experience the power of perpetuating the digital identity of a person after their death.
 
-## ⚜️ Land Size
-1 Land = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
-
-![The Rainbowland Metaverse Map](https://gateway.pinata.cloud/ipfs/QmRgaoeeVLpccXdKroS17icroNdXjLoVGDx5hvgKQRbwQb)
-
 ## ⚜️ Roadmap
 ![Roadmap](https://gateway.pinata.cloud/ipfs/QmbdDHFcWanUddxHR6ZohbaK3cBSdDcnzzp7fj6z24ZQNe)
 
@@ -71,9 +67,10 @@ So, if you are looking for a way to honor and remember your loved ones, come to 
 ## ⚜️ Our Team
 The Team at The Rainbowland Metaverse is passionate about looking after community and respect the privacy of everyone, so you may not find photos of us here or any of us trying to shill Rainbowland at your local blockchain conference.
 
-- @Navajjoo - Enthusiast & Creative Mind. Co-founder, Technical Advisor & Administrator of The Rainbowland Metaverse.
-- @Cherokkee - Crypto Community Enthusiast & Coder. Co-founder of The Rainbowland Metaverse.
-- @Freidrich - Marketing & Listing Exchanges. All about Unity and Web3. Co-founder of The Rainbowland Metaverse.
+- @Navajjoo - The Multitalented Dev and Artist Driving Innovation in the Metaverse. Navajjoo is a multitalented artist, writer, and developer with a passion for the metaverse. With a background in 3D art, writing, and software development, Navajjoo has a unique blend of skills that makes him a valuable contributor to the Rainbowland Metaverse team. As a citizen of the world who has traveled extensively, Navajjoo brings a global perspective to his work, infusing his creations with a diverse range of cultural influences. His technical expertise and creative vision have made him a valuable technical advisor and administrator of the Rainbowland Metaverse, where he helps to ensure that the platform runs smoothly and that users have a seamless experience. With a passion for game development and a deep understanding of the possibilities of the metaverse, Navajjoo is driving innovation forward and helping to shape the future of virtual worlds. Get to know Navajjoo and discover how his diverse skill set and global perspective are driving creativity and innovation in the metaverse.
+- @Cherokkee - The Creative Crypto Enthusiast Driving Game Development Forward. Cherokkee is a multi-talented developer and crypto enthusiast whose passion for coding and game development has propelled him to the forefront of the industry. With a deep understanding of blockchain technology and a keen eye for creative design, Cherokkee has played a pivotal role in developing some of the most innovative games in the crypto space. His technical expertise has helped to streamline game development processes and make them more efficient, while his creative mind has led to the creation of engaging game mechanics and visually stunning worlds. In addition to his work in game development, Cherokkee is also an active member of the crypto community, where he regularly shares his knowledge and expertise with others. Get to know Cherokkee and discover how his unique blend of technical skill and creative vision is driving game development forward in the crypto space.
+- @Freidrich - The Mastermind Developer Behind Rainbowland Metaverse. Friedrich is the mastermind behind the development of the Rainbowland Metaverse, a virtual world where users can immerse themselves in a vibrant and colorful environment. With years of experience in software development, Friedrich has a deep understanding of the technical complexities of creating a seamless user experience. His expertise in coding and programming has been instrumental in building the platform's core functionality, such as its physics engine and interactive objects. In addition, Friedrich's passion for creating visually stunning environments has led to the creation of Rainbowland's breathtaking landscapes, which have captivated users around the world. Get to know Friedrich and see how his technical prowess and creative vision are making Rainbowland Metaverse a truly unforgettable experience.
+- @Landlord - The Creative Design Guru of Our Project Team. Landlord, also known as the "Design Guru" of our project team, is a highly talented member who brings an exceptional level of creativity and innovation to our project. With his keen eye for detail and passion for design, Landlord has played a vital role in crafting the visual identity of our project. From conceptualizing the overall look and feel of our product to designing each individual element, Landlord's contributions have been invaluable in making our project a success. Get to know Landlord and see how his design expertise is helping us achieve our project goals.
 
 ## ⚜️ Social
 - [Youtube](https://www.youtube.com/@TheRainbowlandMetaverse/channels)
