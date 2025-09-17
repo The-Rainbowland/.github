@@ -1,4 +1,4 @@
-## ⚜️ Welcome to The Rainbowland's official documentation and help resource.
+## ⚜️ Welcome to AquaTerra World official documentation and help resource.
 
 What is The Rainbowland Metaverse?
 ⚜️ Step into the future of virtual worlds with Rainbowland Metaverse. Our AI-powered platform offers endless opportunities for play, education, and entertainment. With benefits like immersive gameplay, educational experiences, and movie viewing, there's never been a better time to join our community. Come explore, learn, and have fun in the Rainbowland Metaverse today!
